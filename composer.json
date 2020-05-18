@@ -1,0 +1,21 @@
+{
+    "name": "tanchengjin/money-convert",
+    "description": "numeric convert to upper",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "TanChengjin",
+            "email": "18865477815@63.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": "^5.4.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "tanchengjin\\": "src"
+        }
+    }
+}
